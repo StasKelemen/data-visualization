@@ -1,2 +1,3 @@
-# data-visualization
-Лабораторні роботи з дисципліни "Візуалізація даних" на основі курсу "Аналіз даних та статистичне виведення на мові R" на Prometheus 
+# data-science
+
+Data science basics using R language based on the Prometheus course "Аналіз даних та статистичне виведення на мові R"
